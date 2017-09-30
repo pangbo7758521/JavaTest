@@ -8,4 +8,8 @@ public class GitTest2 {
 	public void test3() {
 		System.out.println("GitTest2.test3()");
 	}
+	
+	public void buyaole() {
+		System.out.println("GitTest2.buyaole()");
+	}
 }
